@@ -11,4 +11,4 @@ Vue 3
 
 ## Vue Crash Course YouTube
 
-[Traversy Media Crash Course](https://youtu.be/KTFH4P8unUQ)
+[John Komarnicki Crash Course](https://youtu.be/KTFH4P8unUQ)
